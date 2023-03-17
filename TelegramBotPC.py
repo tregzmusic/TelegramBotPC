@@ -123,5 +123,3 @@ def after_text_2(message):
 
 
 bot.infinity_polling()
-
-
